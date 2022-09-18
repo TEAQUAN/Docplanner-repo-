@@ -1,0 +1,142 @@
+body{
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #747474;
+    padding-top: 70px;
+}
+.main-header h1 {
+    margin: 2px 0 0;
+    line-height: 68px;
+    display: inline-block;
+    position: relative;
+    color: #00b39b;
+}
+.main-menu{
+    list-style: none;
+    font-size: .9375rem;
+    font-weight: 400;
+    line-height: 2em;
+    padding: 1.33em 0;
+}
+ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    cursor: pointer;
+}
+.main-nav {
+    position: relative;
+    float: right;
+}
+.main-menu li {
+    display: inline-block;
+}
+li{
+    display: list-item;
+}
+.first {
+    margin: 2.065rem auto 3.75rem;
+}
+.section--inner {
+    max-width: 1015px;
+    padding: 0 20px;
+    position: relative;
+    color: #00b39b;
+}
+.lead--logo{
+    display: block;
+    margin: 0 auto;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+}
+.first h1{
+    text-align: center;
+}
+ul li:hover {color: #00b39b;}
+ul li {
+    padding: 15px;
+}
+img { 
+    max-width: 100%;
+    height: auto;
+}
+img {
+    border: 0;
+}
+.grid {
+    margin: 0 -10px;
+}
+ .col-2 {
+  box-sizing: border-box;
+  color: rgb(116, 116, 116);
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  height: 168px;
+  line-height: 28px;
+  margin-block-end: 12.8px;
+  margin-block-start: 12.8px;
+  margin-inline-end: 0px;
+  margin-block-start: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 12.8px;
+  text-size-adjust: 100%;
+  float: right;
+}
+.col-3 {
+    float: left;
+    margin-right: 5px;
+    box-sizing: border-box;
+    color: rgb(116, 116, 116);
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    height: 168px;
+    line-height: 28px;
+    /* margin-block-end: 12.8px;
+    margin-block-start: 12.8px;
+    margin-inline-end: 0px;
+    margin-block-start: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 12.8px; */
+    text-size-adjust: 100%;
+
+}
+.first p {
+    margin: 0.8em 0;
+    line-height: 1.75;
+    font-weight: 400;
+}
+
+p {
+    margin: 1.6em 0;
+}
+.parent{
+
+}
+.square{
+    height: 345px;
+    width: 345px;
+    margin: 20%;
+}
+
+.two{
+    background-color: rgb(18, 120, 179);
+}
+.three{
+    background-color: rgb(41, 37, 37);
+}
+.four{
+    background-color: #00b39b;
+}
